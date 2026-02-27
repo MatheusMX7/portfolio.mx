@@ -1,4 +1,4 @@
-💼 portfólio.mx
+💼 portfólio.mx 
 
 Portfólio pessoal desenvolvido para apresentar perfil profissional, habilidades técnicas e formação acadêmica.
 
